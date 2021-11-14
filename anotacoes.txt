@@ -1,0 +1,11 @@
+1. pip install django
+2. pip install django-crispy-forms
+3. pip install pillow
+ 3.1 pip install pylint-django
+4. django-admin startproject loja .
+5. python manage.py startapp produto
+6. python manage.py startapp pedido
+7. python manage.py startapp perfil
+8. python manage.py migrate
+9. python manage.py createsuperuser
+10. python manage.py runserver
