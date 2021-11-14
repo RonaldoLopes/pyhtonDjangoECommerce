@@ -1,3 +1,7 @@
+1. criar virtual env
+    1.1 python3.9 -m venv venv
+    1.2 ./venv/bin/activate ou . venv/bin/activate
+
 1. pip install django
 2. pip install django-crispy-forms
 3. pip install pillow
@@ -9,3 +13,4 @@
 8. python manage.py migrate
 9. python manage.py createsuperuser
 10. python manage.py runserver
+11. python -m pip install django-debug-toolbar

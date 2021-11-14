@@ -1,4 +1,4 @@
-#!/home/ronaldo/Desktop/pythonfonte/e-commerce-python-django/venv/bin/python3.9
+#!/home/ronaldo/Desktop/pythonfonte/pyhtonDjangoECommerce/venv/bin/python3.9
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
